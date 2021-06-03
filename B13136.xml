@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for restraining the use of vvine-casks, by brewers, and sellers of beere and ale.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13136</idno><idno type="EEBO-CITATION">99892706</idno>
+  <idno type="VID">188372</idno>
+  <idno type="EEBO-PROQUEST">2240918030</idno>
+  
+            <idno type="STC">STC 9096</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[20]</idno>
+            <idno type="STC">ESTC S123882</idno>
+            <idno type="PROQUEST">ocm99892706</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892706e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188372)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:2[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for restraining the use of vvine-casks, by brewers, and sellers of beere and ale.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1637]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: ... Whitehall, the nineteenth day of November, in the thirteenth yeare of Our reign.</note>
+                  <note>Arms 24; Steele notation: England, dlers, 2) there- thing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ale --  England --  Early works to 1800.</term>
+               <term type="topical_term">Beer --  England --  Early works to 1800.</term>
+               <term type="topical_term">Food containers --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188372:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>❧ A Proclamation for restraining the use of VVine-Casks, by Brewers, and sellers of Beere and Ale.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas by the Lawes and Statutes of this Our Realme of <hi>England,</hi>
+               </hi> speciall provision hath been made for the restraint of the use of any other Vessels in venting and putting to sale any Beere or Ale to be spent and occupied within this Realme, in any other Barrels, Kil<g ref="char:EOLhyphen"/>derkins, Firkins, or other Vessels then such as should be made and marked by a common Artificer of Cowpers, and which should contain the severall quantities and contents by the said Lawes and Statutes limited: And whereas it is now found that the good intent of the said Lawes and Statutes is dayly cluded by the Brewers of Beer and Ale, In-holders, Alehouse-keepers, Cooks, Vittuallers, Chan<g ref="char:EOLhyphen"/>dlers, and other such like persons, who starting, emptying, tunning, or shifting their Beer and Ale into Wine-Casks, as Tunnes, Butts, Pipes, Hogsheads, Tier<g ref="char:EOLhyphen"/>ces, and other Wine-vessels prohibited by the said Lawes and Statutes; and from or in those Vessels do retail or sell the same, whereby aswell Our own Houshold, and Our deerest Con<g ref="char:EOLhyphen"/>sort the Queens, as the houses of Our Nobility, and other Our Subjects of quality are often unfurnished of sound and serviceable Wine-Casks for their necessary use; And our Navy and other Shipping of Our Realms are deprived and destituted of so needfull and principall furniture and provision for victualling at Sea, whereof the Officers of Our Nauie do often complain, and the mystery of Cowpers within this Realm (being ancient, and of good use) is impoverished and decayed.</p>
+            <p>Wee intending reformation in the premisses, and that the generall and free use of the said Wine-Casks by Brewers, In-holders, Alehouse-keepers, Cooks, Chandlers, and Victual<g ref="char:EOLhyphen"/>ers, may be in some measure restrained, whereby aswell Our own Houshold, and Our deerest
+<pb facs="tcp:188372:2"/>Consorts, as the houses of Our Nobility, and other Our Subjects of quality may be there<g ref="char:EOLhyphen"/>with better served, and the Navy and Shipping of Our Realm sufficiently furnished with a Provision so needfull, Do therefore hereby signifie and declare our Royall pleasure and Com<g ref="char:EOLhyphen"/>mandment to be, and do also straitly charge and command, All and every Brewers, In-hold<g ref="char:EOLhyphen"/>ers, Cooks, Chandlers, Alehouse-keepers, Victuallers, and other sellers of Beer or Ale, That they or any of them from and after the first day of March next coming, shall not have, use, or imploy in their Houses, Vaults, Cellars, or other Roomes, any Wine-Casks, as Tunnes, Butts, Pipes, Hogsheads, Tierces, or any other Wine-Vessels whatsoever, contrary to the in<g ref="char:EOLhyphen"/>tent of the said Lawes and Statutes, for the keeping of any Beer or Ale, by them to be sold or put to sale in grosse or by retail, within Our Realm of <hi>England</hi> or Dominion of <hi>Wales.</hi> And that no Brewer, Inn-holder, Alehouse-keeper, Cook, Chandler, Victualer, or other sellers of Beer or Ale in grosse or by retail, nor their Agents or Servants shall from henceforth start, emptie, tunne or shift any Beer or Ale into any the said Wine-Casks, contrary to the meaning hereof, upon pain of Our high displeasure, and such penalties as by the Lawes or Statutes of Our Realm or otherwise may be inflicted on the offendors for their contempt of Our Royall Com<g ref="char:EOLhyphen"/>mandment.</p>
+            <p>And whereas for the better execution of this Our Royall Command, Wee are minded to appoint and authorise meet persons from time to time, to make and take diligent view and search, aswell of all such Wine-Casks, as now are, or hereafter shall be used and imployed by any Beer-Brewers, Ale-brewers, Inn-holders, Cooks, Chandlers, Alehouse-keepers, Victuallers, and other fellers of Beer or Ale in grosse or by retail within this Our Realm of <hi>England,</hi> or Dominion of <hi>Wales;</hi> As also of the names of the persons so having and using the same, to the end that from and after the said first day of Marth next coming, they may be thereof wholly restrained, according to Our pleasure herein declared; Wee will and require all Beer-brewers, Ale-brewers, Inn-holders, Cooks, Chandlers, Alehouse-keepers, and other Vittuallers, to yeeld all due and ready obedience thereunto, upon pam of Our high displeasure, and to be proceeded a<g ref="char:EOLhyphen"/>gainst as contemners of Our Royall Commandment.</p>
+            <p>And further Our will and pleasure is, and Wee do hereby straitly charge and command, all Iustices of Peace, Maiors, Sheriffs, Bailiffs, Constables, Headboroughs, and all other Our Officers and Ministers whatsoever, from time to time in their severall Offices and places to be ayding and assisting to the said persons, so by Vs to be appointed and authorized for the said view and search, as much as in them is, that Our Royall will and Commandment herein declared, may be duely observed, as they tender Our pleasure, and will answer the contrary.</p>
+            <p>Neverthelesse, Our meaning is not hereby to inhibite or restrain any Brewers from send<g ref="char:EOLhyphen"/>ing, selling, or venting their Beer or Ale in Wine-Casks, unto any of our Nobility, or other Our Subjects of quality, to be expended onely for the use of them and their families, any thing heretofore to the contrary thereof notwithstanding.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at Whitehall,</hi>
+                  <date>
+                     <hi> the nineteenth day of November, in the thirteenth yeare of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>❧ <hi>God save the King.</hi>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of John Bill. 1637.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
